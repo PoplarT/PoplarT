@@ -547,6 +547,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   top: 4px;
 }
 
+# images {
+	
+	display: inline-block;
+    padding: 0;
+}
 
 
 /* Contact Section
@@ -624,9 +629,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #111;
+ 
   padding: 30px 0;
-  color: #fff;
+  color: #000;
 }
 
 #footer .copyright {
